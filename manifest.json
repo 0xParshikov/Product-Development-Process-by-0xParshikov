@@ -1,0 +1,10 @@
+{
+  "process_version": "2.3.1",
+  "upstream_source_commit": "58ba3e204aeb18014560b94a8e2194ac18d70563",
+  "files": {
+    "AGENTS.md": "f050ef7755e92c754b40846629f8fdf73d4fef178b79abf4124cdc0e9fcda5c3",
+    "ENGINEERING.md": "5f051fd54d915648b8538c4419e2328f48de967afe47da041c611f116f116ed8",
+    "README.md": "2381682a197125381edd690fe870c37f28feedf18af4548979dd0bc931b3deb4"
+  },
+  "publication": "not_published"
+}
