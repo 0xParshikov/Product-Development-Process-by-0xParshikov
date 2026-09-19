@@ -1,11 +1,22 @@
 {
-  "process_version": "2.3.1",
-  "upstream_source_commit": "58ba3e204aeb18014560b94a8e2194ac18d70563",
+  "process_version": "2.4.3",
+  "source_revision_date": "2026-09-18",
+  "upstream_source_commit": "871588756c4f5797b5dc45000e8d0b28be865e57",
+  "source_state": "working_tree",
+  "source_files_sha256": {
+    "AGENTS.md": "32d5f3f3965a5d85bef92b7fce116d3e0caeefe0d6f327d7243fa4930a51d84d",
+    "ENGINEERING.md": "7aa7a49864b8f78872988b5daba3fbaf500e78a25463f5ba89901d347907077a"
+  },
+  "public_copy_adjustments": [
+    "Replace the local platform root with <PLATFORM_ROOT>.",
+    "Render references to unpublished DESIGN_UI.md as a filename, not a broken link."
+  ],
   "files": {
-    "AGENTS.md": "f050ef7755e92c754b40846629f8fdf73d4fef178b79abf4124cdc0e9fcda5c3",
-    "ENGINEERING.md": "5f051fd54d915648b8538c4419e2328f48de967afe47da041c611f116f116ed8",
-    "README.md": "edc33ceb90c3798562efe560305dd38841cd2de04f8b013439f5f0221863fe43"
+    "AGENTS.md": "e4d908d17ab84f8e78bb588d3bb4b2fa3bbde6063fff63f59f09c826563cb593",
+    "ENGINEERING.md": "323293b91f1cde22fef865bf4e3763908f3592aecf7023d6658a7466f6b9a007",
+    "README.md": "daf4414d5919e489ac0dc1f0a7ed57424b6c69581f0a927f308b05ea084a5e50"
   },
   "publication": "public_release",
-  "repository": "https://github.com/0xParshikov/Product-Development-Process-by-0xParshikov"
+  "repository": "https://github.com/0xParshikov/Product-Development-Process-by-0xParshikov",
+  "tag": "v2.4.3"
 }
