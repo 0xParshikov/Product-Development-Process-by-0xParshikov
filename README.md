@@ -22,7 +22,7 @@
 
 3.0 публикуется как открытая гипотеза, а не как готовая методика или доказанное улучшение. Её качество и эффективность можно будет оценить только после следующих реальных задач и проектов.
 
-[Скачать ZIP версии 3.0](https://github.com/0xParshikov/Product-Development-Process-by-0xParshikov/archive/refs/tags/v3.0.zip) · [Открыть файлы версии](https://github.com/0xParshikov/Product-Development-Process-by-0xParshikov/tree/v3.0) · [Посмотреть процесс на сайте](https://0xexqui.com/process/)
+[Скачать актуальную редакцию 3.0](https://github.com/0xParshikov/Product-Development-Process-by-0xParshikov/archive/refs/heads/main.zip) · [Открыть актуальные файлы](https://github.com/0xParshikov/Product-Development-Process-by-0xParshikov/tree/main) · [Посмотреть процесс на сайте](https://0xexqui.com/process/)
 
 В выпуск входят [AGENTS.md](AGENTS.md) с правилами взаимодействия и ответственностью ролей, [ENGINEERING.md](ENGINEERING.md) с циклом работы и [manifest.json](manifest.json) с происхождением и контрольными суммами. Версия 3.0 действует в рабочих инициативах 0xExqui.OS с 22 сентября 2026 года. Она требует полного кандидата в Dev для Challenge, упрощения решения со стороны CTO и проверок только в затронутом периметре.
 

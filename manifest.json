@@ -1,21 +1,21 @@
 {
   "process_version": "3.0",
   "source_revision_date": "2026-09-22",
-  "upstream_source_commit": "385f235c0606f743a031e56b7385e22e8de04a42",
+  "upstream_source_commit": "0bd378cdc19504b1936cce48ff63b7a7f7e2890b",
   "source_state": "committed",
   "source_files_sha256": {
     "AGENTS.md": "1951d7525c21e7ce3e50561c2486185f08bc99afcc1ffa04fef7717e95c318cc",
-    "ENGINEERING.md": "9ac75425dd3b70031a0902dfac6a83ace673d906510caa2b35238ef23b384edd"
+    "ENGINEERING.md": "19f02b8f71277f2b6a6fd7443f366160211929b3ef5e81f45a37877face750fb"
   },
   "public_copy_adjustments": [
     "Replace the local platform root with <PLATFORM_ROOT>."
   ],
   "files": {
     "AGENTS.md": "1951d7525c21e7ce3e50561c2486185f08bc99afcc1ffa04fef7717e95c318cc",
-    "ENGINEERING.md": "2f59edced195076f21c94c6825809906452e8a1a4324a1be1f3b3edf24574a8c",
-    "README.md": "aed7dc9c257862da0658b9cb1e2b9f68971777b99653e89fb4b709b5751efa76"
+    "ENGINEERING.md": "390db2396dc8ceb0e57e2238fada5f7ccbfd3cfe4790dd40de0a0e9961b2bea4",
+    "README.md": "8a82876b0be0375b159a894ee54057bd07a11179143457908fd4121813a9a0f3"
   },
   "publication": "public_release",
   "repository": "https://github.com/0xParshikov/Product-Development-Process-by-0xParshikov",
-  "tag": "v3.0"
+  "base_tag": "v3.0"
 }
