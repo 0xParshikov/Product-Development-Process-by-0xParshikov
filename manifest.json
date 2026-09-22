@@ -1,18 +1,18 @@
 {
   "process_version": "3.0",
   "source_revision_date": "2026-09-22",
-  "upstream_source_commit": "0bd378cdc19504b1936cce48ff63b7a7f7e2890b",
+  "upstream_source_commit": "a697d24b3fc5404f891a4f499151959d6d66b608",
   "source_state": "committed",
   "source_files_sha256": {
     "AGENTS.md": "1951d7525c21e7ce3e50561c2486185f08bc99afcc1ffa04fef7717e95c318cc",
-    "ENGINEERING.md": "19f02b8f71277f2b6a6fd7443f366160211929b3ef5e81f45a37877face750fb"
+    "ENGINEERING.md": "5041ea539e779f48def09108ae8f29bc92a736ca04bcb5c7c284a2d6c881984e"
   },
   "public_copy_adjustments": [
     "Replace the local platform root with <PLATFORM_ROOT>."
   ],
   "files": {
     "AGENTS.md": "1951d7525c21e7ce3e50561c2486185f08bc99afcc1ffa04fef7717e95c318cc",
-    "ENGINEERING.md": "390db2396dc8ceb0e57e2238fada5f7ccbfd3cfe4790dd40de0a0e9961b2bea4",
+    "ENGINEERING.md": "69f6ee7f486aa4da73aec4094fba75dd19d31c4c6de192df760fb624e0876336",
     "README.md": "8a82876b0be0375b159a894ee54057bd07a11179143457908fd4121813a9a0f3"
   },
   "publication": "public_release",
