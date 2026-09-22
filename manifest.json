@@ -1,22 +1,21 @@
 {
-  "process_version": "2.4.4",
-  "source_revision_date": "2026-09-19",
-  "upstream_source_commit": "34f9c23aaf9b29b4020853f3bec4b4b8aab15bb6",
+  "process_version": "3.0",
+  "source_revision_date": "2026-09-22",
+  "upstream_source_commit": "385f235c0606f743a031e56b7385e22e8de04a42",
   "source_state": "committed",
   "source_files_sha256": {
-    "AGENTS.md": "61bbccf29b2faf9e673ab6c8339c131484a9b1d6ec6cbc48ccf453375ac3ec4c",
-    "ENGINEERING.md": "47ffa4548f54983e624d00a7c18d1f9ada9d2c44cf07296e8bd593b0bde24db8"
+    "AGENTS.md": "1951d7525c21e7ce3e50561c2486185f08bc99afcc1ffa04fef7717e95c318cc",
+    "ENGINEERING.md": "9ac75425dd3b70031a0902dfac6a83ace673d906510caa2b35238ef23b384edd"
   },
   "public_copy_adjustments": [
-    "Replace the local platform root with <PLATFORM_ROOT>.",
-    "Render references to unpublished DESIGN_UI.md and DIAGNOSTICS.md as filenames, not broken links."
+    "Replace the local platform root with <PLATFORM_ROOT>."
   ],
   "files": {
-    "AGENTS.md": "757b8c803d32a2a61784a283438d7b07907b32137a2e168cc7c70623a0229bfe",
-    "ENGINEERING.md": "d4c2671a8032259d8c1669a8ff837a08f08c242b7b567551494f22a3fd4dce5a",
-    "README.md": "19ac7eacea0bff34255725391946c6b0fb79d4974e02425007c89821fefccda1"
+    "AGENTS.md": "1951d7525c21e7ce3e50561c2486185f08bc99afcc1ffa04fef7717e95c318cc",
+    "ENGINEERING.md": "2f59edced195076f21c94c6825809906452e8a1a4324a1be1f3b3edf24574a8c",
+    "README.md": "aed7dc9c257862da0658b9cb1e2b9f68971777b99653e89fb4b709b5751efa76"
   },
   "publication": "public_release",
   "repository": "https://github.com/0xParshikov/Product-Development-Process-by-0xParshikov",
-  "tag": "v2.4.4"
+  "tag": "v3.0"
 }
