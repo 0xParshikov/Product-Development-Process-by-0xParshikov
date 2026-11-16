@@ -1,12 +1,12 @@
 {
-  "process_version": "4.0",
+  "process_version": "4.1",
   "source_revision_date": "2026-11-16",
-  "upstream_source_commit": "0a76c54",
+  "upstream_source_commit": "d856b78",
   "source_state": "committed",
   "source_files_sha256": {
     "AGENTS.md": "f1df4c1fb4037c7ee5edb8d26c8d0ef8dc3894e459b4cc12cd60fa86dca6c273",
-    "ENGINEERING.md": "6fe3663912af8852e215e2d7e7a3aed9372cb74d7425c3ee13ba979107b6253e",
-    "ENGINEERING-REFERENCE.md": "1b21b10f3099e64de07a863e8d774c7ee6f6350e43d2526a5af0d06094b05122"
+    "ENGINEERING.md": "f49239eb4e655f37ac7b7e6661a0aa2692087ef91bcdd4d0880024ed8e8eabae",
+    "ENGINEERING-REFERENCE.md": "0ec5ec92bdf1a8389fc41fa74a5874cd17008724d3cdd8496dd9a6ea623be02b"
   },
   "public_copy_adjustments": [
     "Replace the local platform root with <PLATFORM_ROOT>.",
@@ -14,12 +14,13 @@
   ],
   "files": {
     "AGENTS.md": "f1df4c1fb4037c7ee5edb8d26c8d0ef8dc3894e459b4cc12cd60fa86dca6c273",
-    "ENGINEERING.md": "b275c53e740a39e68b73ece719e4d2afc8e96f65934c2776ea674e914a1fad09",
-    "ENGINEERING-REFERENCE.md": "1b21b10f3099e64de07a863e8d774c7ee6f6350e43d2526a5af0d06094b05122",
+    "ENGINEERING.md": "bdda4549d3b1fbe08c0a70575923e73b1d54b4a6aaf9e23e05ce51d26059e9ee",
+    "ENGINEERING-REFERENCE.md": "0ec5ec92bdf1a8389fc41fa74a5874cd17008724d3cdd8496dd9a6ea623be02b",
     "AUDIT-3.1-4.0.md": "6f7db054a456b071fb125f6a60f2e46106f051dcff21643635083cb4ccb45349",
-    "README.md": "927a30efc283b55079c25c444883cca5db677cae8d26a4e1f458dcdcc993c9e6"
+    "CHANGES-4.0-4.1.md": "882b03c93d4a456fc271742eff175d659fdcea376f662984e6760daaee1c8a40",
+    "README.md": "f6040c496c1e0160b3b5c3b7ae0d5e4e61f0083a5daa30c5db69c7f50dbbd1cb"
   },
   "publication": "public_release",
   "repository": "https://github.com/0xParshikov/Product-Development-Process-by-0xParshikov",
-  "base_tag": "v4.0"
+  "base_tag": "v4.1"
 }
