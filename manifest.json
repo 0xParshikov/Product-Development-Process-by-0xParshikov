@@ -1,11 +1,11 @@
 {
-  "process_version": "4.1",
+  "process_version": "4.2",
   "source_revision_date": "2026-11-16",
-  "upstream_source_commit": "d856b78",
+  "upstream_source_commit": "026b5e1",
   "source_state": "committed",
   "source_files_sha256": {
     "AGENTS.md": "f1df4c1fb4037c7ee5edb8d26c8d0ef8dc3894e459b4cc12cd60fa86dca6c273",
-    "ENGINEERING.md": "f49239eb4e655f37ac7b7e6661a0aa2692087ef91bcdd4d0880024ed8e8eabae",
+    "ENGINEERING.md": "df83e0703343006ae02de747874db7eee2b0b88df94683464bbc68abb2d020dc",
     "ENGINEERING-REFERENCE.md": "0ec5ec92bdf1a8389fc41fa74a5874cd17008724d3cdd8496dd9a6ea623be02b"
   },
   "public_copy_adjustments": [
@@ -14,13 +14,14 @@
   ],
   "files": {
     "AGENTS.md": "f1df4c1fb4037c7ee5edb8d26c8d0ef8dc3894e459b4cc12cd60fa86dca6c273",
-    "ENGINEERING.md": "bdda4549d3b1fbe08c0a70575923e73b1d54b4a6aaf9e23e05ce51d26059e9ee",
+    "ENGINEERING.md": "03632597bc3a1abb844c983baff949f41ceed98657e4af9a11609ee773f64ff4",
     "ENGINEERING-REFERENCE.md": "0ec5ec92bdf1a8389fc41fa74a5874cd17008724d3cdd8496dd9a6ea623be02b",
     "AUDIT-3.1-4.0.md": "6f7db054a456b071fb125f6a60f2e46106f051dcff21643635083cb4ccb45349",
     "CHANGES-4.0-4.1.md": "882b03c93d4a456fc271742eff175d659fdcea376f662984e6760daaee1c8a40",
-    "README.md": "f6040c496c1e0160b3b5c3b7ae0d5e4e61f0083a5daa30c5db69c7f50dbbd1cb"
+    "CHANGES-4.1-4.2.md": "a10666fcbaef04d5a9d39b7e96cbd1eabaabfdb95ad24b07671a545e2c3409da",
+    "README.md": "8755d4bedfc8191b7263cdb862f73bc9e3b46f71399c2db2ffa50612ca39d9eb"
   },
   "publication": "public_release",
   "repository": "https://github.com/0xParshikov/Product-Development-Process-by-0xParshikov",
-  "base_tag": "v4.1"
+  "base_tag": "v4.2"
 }
