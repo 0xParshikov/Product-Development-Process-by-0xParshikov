@@ -1,28 +1,29 @@
 {
-  "process_version": "4.3",
+  "process_version": "4.4",
   "source_revision_date": "2026-11-17",
-  "upstream_source_commit": "b9fc53a",
+  "upstream_source_commit": "237b37c",
   "source_state": "committed",
   "source_files_sha256": {
-    "AGENTS.md": "fdac808f6b68ae48edc14ca12811a04c0c1cfacf0c46c6993abee4db841c2344",
-    "ENGINEERING.md": "42e9154f78c539947794717612a754560930e8f2bc9acdd99e0d345dddcb6e81",
-    "ENGINEERING-REFERENCE.md": "0ec5ec92bdf1a8389fc41fa74a5874cd17008724d3cdd8496dd9a6ea623be02b"
+    "AGENTS.md": "454d9996b68afd090bffa953a48bc2bf5e4ccf323afa9d3e6c1fbf6d393395b3",
+    "ENGINEERING.md": "92880df18367cae25e14cb131f93a523266bf27885c20a0fbafc5fa02a25138e",
+    "ENGINEERING-REFERENCE.md": "37a457f8ef62598b06e01fcac6db0cf837451c754f17b553bd9ba72057a0b434"
   },
   "public_copy_adjustments": [
     "Replace the local platform root with <PLATFORM_ROOT>.",
     "AUDIT: project names replaced with neutral descriptions."
   ],
   "files": {
-    "AGENTS.md": "fdac808f6b68ae48edc14ca12811a04c0c1cfacf0c46c6993abee4db841c2344",
-    "ENGINEERING.md": "e595d0579ffeace478338ae52e574d4fc30db66c3163a0683426e19fd5911019",
-    "ENGINEERING-REFERENCE.md": "0ec5ec92bdf1a8389fc41fa74a5874cd17008724d3cdd8496dd9a6ea623be02b",
+    "AGENTS.md": "454d9996b68afd090bffa953a48bc2bf5e4ccf323afa9d3e6c1fbf6d393395b3",
+    "ENGINEERING.md": "5065bc4da18710a46a4a1174c20cadc7f28e1f866e8c03412bedf83a8adb249e",
+    "ENGINEERING-REFERENCE.md": "37a457f8ef62598b06e01fcac6db0cf837451c754f17b553bd9ba72057a0b434",
     "AUDIT-3.1-4.0.md": "6f7db054a456b071fb125f6a60f2e46106f051dcff21643635083cb4ccb45349",
     "CHANGES-4.0-4.1.md": "882b03c93d4a456fc271742eff175d659fdcea376f662984e6760daaee1c8a40",
     "CHANGES-4.1-4.2.md": "a10666fcbaef04d5a9d39b7e96cbd1eabaabfdb95ad24b07671a545e2c3409da",
     "CHANGES-4.2-4.3.md": "5f4909c8a65f75d6246fb1c00748222c998869c16da1500f7abc8f6db32b6bb8",
-    "README.md": "23cc85cd51fa8b7d2323c98e6fe6210be00a9dec246006ae46341e86fe349c39"
+    "CHANGES-4.3-4.4.md": "a6dd0d0ab569a08e57a2a23c189b00f18831bbe517bec441da196e997d8de058",
+    "README.md": "3df46366e0a32800bcb8c6753f75fb4d8075a8cfc8af7c43ef30eb59f7bbac4d"
   },
   "publication": "public_release",
   "repository": "https://github.com/0xParshikov/Product-Development-Process-by-0xParshikov",
-  "base_tag": "v4.3"
+  "base_tag": "v4.4"
 }
