@@ -1,11 +1,11 @@
 {
-  "process_version": "4.2",
-  "source_revision_date": "2026-11-16",
-  "upstream_source_commit": "026b5e1",
+  "process_version": "4.3",
+  "source_revision_date": "2026-11-17",
+  "upstream_source_commit": "b9fc53a",
   "source_state": "committed",
   "source_files_sha256": {
-    "AGENTS.md": "f1df4c1fb4037c7ee5edb8d26c8d0ef8dc3894e459b4cc12cd60fa86dca6c273",
-    "ENGINEERING.md": "df83e0703343006ae02de747874db7eee2b0b88df94683464bbc68abb2d020dc",
+    "AGENTS.md": "fdac808f6b68ae48edc14ca12811a04c0c1cfacf0c46c6993abee4db841c2344",
+    "ENGINEERING.md": "42e9154f78c539947794717612a754560930e8f2bc9acdd99e0d345dddcb6e81",
     "ENGINEERING-REFERENCE.md": "0ec5ec92bdf1a8389fc41fa74a5874cd17008724d3cdd8496dd9a6ea623be02b"
   },
   "public_copy_adjustments": [
@@ -13,15 +13,16 @@
     "AUDIT: project names replaced with neutral descriptions."
   ],
   "files": {
-    "AGENTS.md": "f1df4c1fb4037c7ee5edb8d26c8d0ef8dc3894e459b4cc12cd60fa86dca6c273",
-    "ENGINEERING.md": "03632597bc3a1abb844c983baff949f41ceed98657e4af9a11609ee773f64ff4",
+    "AGENTS.md": "fdac808f6b68ae48edc14ca12811a04c0c1cfacf0c46c6993abee4db841c2344",
+    "ENGINEERING.md": "e595d0579ffeace478338ae52e574d4fc30db66c3163a0683426e19fd5911019",
     "ENGINEERING-REFERENCE.md": "0ec5ec92bdf1a8389fc41fa74a5874cd17008724d3cdd8496dd9a6ea623be02b",
     "AUDIT-3.1-4.0.md": "6f7db054a456b071fb125f6a60f2e46106f051dcff21643635083cb4ccb45349",
     "CHANGES-4.0-4.1.md": "882b03c93d4a456fc271742eff175d659fdcea376f662984e6760daaee1c8a40",
     "CHANGES-4.1-4.2.md": "a10666fcbaef04d5a9d39b7e96cbd1eabaabfdb95ad24b07671a545e2c3409da",
-    "README.md": "8755d4bedfc8191b7263cdb862f73bc9e3b46f71399c2db2ffa50612ca39d9eb"
+    "CHANGES-4.2-4.3.md": "5f4909c8a65f75d6246fb1c00748222c998869c16da1500f7abc8f6db32b6bb8",
+    "README.md": "23cc85cd51fa8b7d2323c98e6fe6210be00a9dec246006ae46341e86fe349c39"
   },
   "publication": "public_release",
   "repository": "https://github.com/0xParshikov/Product-Development-Process-by-0xParshikov",
-  "base_tag": "v4.2"
+  "base_tag": "v4.3"
 }
